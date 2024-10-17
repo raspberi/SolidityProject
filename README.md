@@ -18,9 +18,7 @@ Once the code is compiled, you can deploy the contract by clicking on the "Deplo
 Once the contract is deployed, you can interact with it by pasting an address from the provided sample addresses into the mint and burn functions and then specifying values. You can observe how each transaction affect the balances as well as the total supply.
 
 ## Authors
-Erica Charlize Santos
-FEU Institute of Technology
-202010185@fit.edu.ph
+Erica Charlize Santos - FEU Institute of Technology (202010185@fit.edu.ph)
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details
